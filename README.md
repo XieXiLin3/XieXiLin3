@@ -4,6 +4,12 @@
 
 您可以来我[博客](https://xiexilin.cakemc.top)看看~
 
+### Github Status
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=XieXiLin158&count_private=true&show_icons=true&custom_title=XieXiLin's%20Status%20Card&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XieXiLin158&custom_title=XieXiLin's%20Top%20Languages&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+
 <!--
 **XieXiLin158/XieXiLin158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
