@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+我是初中生，现读初二。喜欢捣鼓电脑，玩游戏，学习。
+
+您可以来我[博客](https://xiexilin.cakemc.top)看看~
+
 <!--
 **XieXiLin158/XieXiLin158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
