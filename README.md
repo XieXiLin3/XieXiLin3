@@ -2,7 +2,11 @@
 
 我是初中生，现读初二。喜欢捣鼓电脑，玩游戏，学习。
 
-您可以来我[博客](https://xiexilin.cakemc.top)看看~
+您可以来我[**主页**](https://www.xiexilin.top/)看看~
+
+### 仓库
+
+[Teahouse-Studios/bot](https://github.com/Teahouse-Studios/bot)
 
 ### Github Status
 
