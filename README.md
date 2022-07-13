@@ -1,14 +1,14 @@
-# Hi there 👋
+# 👋 Hi there
 
 This is XieXiLin, a student in Grade 8.
 
-## Thanks to
+## 🌹 Thanks to
 
 - [@Nemo(zbx1425)](https://github.com/zbx1425)
 
 - [@MRSlou(MRSlouzk)](https://github.com/MRSlouzk)
 
-- [@z0z0r4](https://github.com/z0z0r4)
+- [@z0z0r4 [This's Not Really Weel]](https://github.com/z0z0r4)
 
 <details>
 
@@ -20,19 +20,19 @@ This is XieXiLin, a student in Grade 8.
 
 - [@xxtg666](https://github.com/xxtg666)
 
-- [xuan2006(xuan2006)](https://github.com/xuan2006)
+- [@xuan2006(xuan2006)](https://github.com/xuan2006)
 
-- [Airero(Airero)](https://github.com/Airero)
+- [@Airero(Airero)](https://github.com/Airero)
 
-- [Glous(youfantan)](https://github.com/youfantan)
+- [@Glous(youfantan)](https://github.com/youfantan)
 
 </details>
 
 [Following](https://github.com/XieXiLin3?tab=following)
 
-## Something
+## 💡 Something
 
-### GPG Keys
+### 🔒 GPG Keys
 
 - (Factory Computer) `5B21 03BE 077A 0F43 026D 1CE1 54B4 B9A2 C32A DD6A`
 
@@ -40,11 +40,11 @@ This is XieXiLin, a student in Grade 8.
 
 - (Microsoft Surface Pro 6) `565F 8ED3 F0D2 CD38 4BDF FB88 0469 90D8 6F5F 7D0E`
 
-### SSH Public Keys
+### 🔓 SSH Public Keys
 
 [Via Github](https://github.com/XieXiLin3.keys)
 
-## Contact me
+## 📬 Contact me
 
 <details>
 
