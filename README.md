@@ -8,7 +8,7 @@ This is XieXiLin, a student in Grade 8.
 
 - [@MRSlou(MRSlouzk)](https://github.com/MRSlouzk)
 
-- [@z0z0r4 [This's Not Really Weel]](https://github.com/z0z0r4)
+- [@z0z0r4](https://github.com/z0z0r4)
 
 <details>
 
@@ -38,7 +38,7 @@ This is XieXiLin, a student in Grade 8.
 
 - (XieXiLin's Minecraft) `67DB 8F6C 7C0B 135B 203D F7DC A46E 5E61 BF36 7C88`
 
-- (Microsoft Surface Pro 6) `565F 8ED3 F0D2 CD38 4BDF FB88 0469 90D8 6F5F 7D0E`
+- (Microsoft Surface Pro 6) `None`
 
 ### 🔓 SSH Public Keys
 
